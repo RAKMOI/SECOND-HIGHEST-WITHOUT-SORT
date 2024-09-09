@@ -1,3 +1,4 @@
+#FIND THE SECOND HIGHEST VALUE IN A LIST INPUT BY USER WITHOUT USING SORT FUNCTION
 #input list x from the user
 x=list(eval(input()))
 #initiate a vaarible as zero
