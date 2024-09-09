@@ -1,0 +1,22 @@
+#input list x from the user
+x=list(eval(input()))
+#initiate a vaarible as zero
+a=0
+#condition for finding largest number
+for i in x:
+    if a>i:
+        pass
+    else:
+        a=i
+#a is the largest number in the list x 
+#remove largest number from the list x
+x.remove(a)
+#initiate b vaarible as zero
+b=0
+for i in x:
+    if b>i:
+        pass
+    else:
+        b=i
+print(b)
+#print the second highest number b in the list x
